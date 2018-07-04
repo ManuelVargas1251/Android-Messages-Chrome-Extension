@@ -1,0 +1,3 @@
+browser.browserAction.setBadgeText(
+    'deta'
+)

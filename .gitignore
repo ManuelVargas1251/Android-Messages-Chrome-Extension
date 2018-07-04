@@ -1,5 +1,9 @@
+# html
+popup.html
+
 # Logs
 logs
+
 *.log
 npm-debug.log*
 
