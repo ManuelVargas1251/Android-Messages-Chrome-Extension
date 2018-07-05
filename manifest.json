@@ -19,20 +19,6 @@
         "96": "messenger_96dp.png",
         "128": "messenger_96dp.png"
     },
-    "permissions": [
-        "activeTab",
-        "tabs"
-    ],
-    "content_scripts": [
-        {
-            "matches": [
-                "<all_urls>"
-            ],
-            "js": [
-                "content.js"
-            ]
-        }
-    ],
     "background": {
         "scripts": [
             "background.js"
