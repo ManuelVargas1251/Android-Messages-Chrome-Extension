@@ -1,4 +1,5 @@
-# Android Messages Chrome Extension
+# Menu Icon for Android Messages
+Chrome Extension
 
 You can now view your text messages from the Messages app from Google on your chrome browser! 
 
