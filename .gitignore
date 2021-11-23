@@ -6,6 +6,7 @@ Android-Messages-Chrome-Extension.pe
 
 # Logs
 logs
+archive
 
 *.log
 npm-debug.log*

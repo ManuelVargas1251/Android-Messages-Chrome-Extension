@@ -1,11 +1,11 @@
-# Menu Icon for Android Messages
-Chrome Extension
+![Version](https://img.shields.io/badge/Version-0.1.4-brightgreen.svg)
+# Menu Icon for Android Messages Chrome Extension 🌎
+
+This chrome extension adds a google messages icon to your chrome extensions bar. When clicked, a new tab is loaded to messages.google.com from your browser!
 
 You can now view your text messages from the Messages app from Google on your chrome browser! 
 
-This extension creates a menu icon that will take you to messages.android.com.
-
-![](screenshot-2.png)
+![](images/screenshot-2.png)
 
 ## [Download from Chrome Web Store](https://chrome.google.com/webstore/detail/odhjnjgngaofbpdfdmcmdfenohncgopl)
 
@@ -13,4 +13,4 @@ Please submit issues for any bugs/features.
 
 I have no association with Google or any other related entity.
 
-[![](ChromeWebStore_Badge_v2.png)](https://chrome.google.com/webstore/detail/odhjnjgngaofbpdfdmcmdfenohncgopl)
+[![](images/ChromeWebStore_Badge_v2.png)](https://chrome.google.com/webstore/detail/odhjnjgngaofbpdfdmcmdfenohncgopl)
