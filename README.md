@@ -5,7 +5,7 @@ This chrome extension adds a google messages icon to your chrome extensions bar.
 
 You can now view your text messages from the Messages app from Google on your chrome browser! 
 
-![](images/screenshot-2.png)
+
 
 ## [Download from Chrome Web Store](https://chrome.google.com/webstore/detail/odhjnjgngaofbpdfdmcmdfenohncgopl)
 
@@ -14,3 +14,5 @@ Please submit issues for any bugs/features.
 I have no association with Google or any other related entity.
 
 [![](images/ChromeWebStore_Badge_v2.png)](https://chrome.google.com/webstore/detail/odhjnjgngaofbpdfdmcmdfenohncgopl)
+
+![](images/screenshot-1.png)
