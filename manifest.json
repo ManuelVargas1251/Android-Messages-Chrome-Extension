@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Menu Icon for Android Messages",
-    "description": "This extension creates a menu icon that will take you to messages.google.com.",
-    "version": "0.1.4",
+    "name": "Android Messages - Open in New Tab",
+    "description": "This extension launches messages.google.com text/sms from a Chrome badge icon.",
+    "version": "0.1.4.1",
     "author": "Manuel Vargas",
     "browser_action": {
         "default_icon": {
@@ -11,7 +11,7 @@
             "32": "images/messenger_96dp.png",
             "96": "images/messenger_96dp.png"
         },
-        "default_title": "Menu Icon for Android Messages"
+        "default_title": "Android Messages - Open in New Tab"
     },
     "icons": {
         "16": "images/messenger_96dp.png",
