@@ -1,5 +1,6 @@
-![Programming language](https://img.shields.io/badge/Language-Javascript-blue.svg)  
+![Programming language](https://img.shields.io/badge/Language-Javascript-blue.svg)
 ![Version](https://img.shields.io/badge/Version-0.1.4.1-brightgreen.svg)
+
 # Android Messages - Open in New Tab - Chrome Extension 🌎
 
 This chrome extension adds a google messages icon to your chrome extensions bar. When clicked, a new tab is loaded to messages.google.com from your browser!
